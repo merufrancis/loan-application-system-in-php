@@ -1,10 +1,8 @@
-Free Download Source Code "Loan Management System"
-
-FIRST Download
+Instructions
 
 1.XAMPP
 
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+2."TEXT EDITOR" VS code OR SUBLIME TEXT 3 / ETC.
 
 3"Loan_Management_System"
 
@@ -30,6 +28,3 @@ creat your own staff
 Admin
 user: admin
 pass: admin123
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
